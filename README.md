@@ -2,7 +2,8 @@
 
 ArrayOfObject and .map access
 
-[Screen Shot 2021-12-09 at 5 37 00 PM](https://user-images.githubusercontent.com/95377031/145521348-8e4dc657-5253-4def-b465-58f6e2757d81.png)
+![Screen Shot 2021-12-09 at 5 37 00 PM](https://user-images.githubusercontent.com/95377031/145521481-a9aff14d-10bc-433c-8a61-49a46e669e60.png)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
